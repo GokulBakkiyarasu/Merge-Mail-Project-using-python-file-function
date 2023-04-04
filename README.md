@@ -24,16 +24,17 @@ Template File Format
 
 The template file should be a plain text file with placeholders for the variable names that are used in the data source file. The placeholders should be enclosed in double curly braces.
 
-For example:
+ Example
 
 
-Dear Name,
+    Dear Name,
 
-Thank you for your interest in our company. We would like to invite you to our upcoming event on {{Event Date}}.
+    You are invited to my birthday this Saturday.
 
-Sincerely,
 
-Angela
+    Hope you can make it!
+
+    Angela
 
 Data Source File Format
 
