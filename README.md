@@ -16,7 +16,7 @@ How to Use the Tool
 
 File Structure
 
-    mail_merge.py - the main Python script for the Mail Merge Project.
+    main.py - the main Python script for the Mail Merge Project.
     invited_names.txt - the data source file used for the Mail Merge Project.
     output - the output folder where the personalized documents will be saved.
 
